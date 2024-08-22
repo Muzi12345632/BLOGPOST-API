@@ -28,7 +28,6 @@ function App() {
                 <>
                     <Header/>
                     <div style={{marginTop: '60px'}}>
-                        {/* Main content of your app */}
                         <h1>Welcome to My Website</h1>
                         <p>This is the main content of the page.</p>
                     </div>
